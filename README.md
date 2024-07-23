@@ -1,1 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZHlrD2sU)
+# Consultas 
+## CPU 
+Según la pagina oficial de intel, el "central processor unit" (CPU por sus siglas en inglés) es el componente encargado de ejecutar los comandos y procesos necesarios para que un computador funcione. Compuesta de millones de transistores que a su vez están agrupados (más que todo en las unidades mas modernas) en núcleos, cuya potencia, dependiendo de la ingeniería de la unidad, puede ser aprovechada individualmente por nucleo, o puede ser dividida en 2 o más "hilos", que son en resumen los subprocesos (o tareas) que realiza un solo nucleo en simultaneo. 
+["Cpu vs. Gpu: What's the difference"; Página oficial de Intel.](https://www.intel.com/content/www/us/en/products/docs/processors/cpu-vs-gpu.html)
+["Nucleos e hilos en un procesador: que son y en que se diferencian";  Diario EL ESPAÑOL 2017.](https://www.elespanol.com/omicrono/tecnologia/20170707/nucleos-hilos-procesador-diferencian/229478224_0.html)
+## GPU
+La gpu es un tipo de procesador que esta compuesto por una cantidad mayor de nucleos más pequeños, en comparación con la cpu, que trabajan en conjunto para ofrecer una mayor potencia multinucleo. Casi siempre son mucho mas eficientes a la hora de manejar unos tipos especificos de tareas que requieren de una mayor cantidad de nucleos de menor potencia, siendo un ejemplo común el manejo de procesos gráficos, como tareas de diseño en 3d o procesamiento de gráficos de videojuegos. 
+["Cpu vs. Gpu: What's the difference"; Página oficial de Intel.](https://www.intel.com/content/www/us/en/products/docs/processors/cpu-vs-gpu.html) 
+## Motherboard
+Se trata de una placa de circuito impreso responzable de la comunicación de los otros componentes de hardware. Sus componentes son variados y su calidad depende del fabricante. Usualmente estan compuestas por: conectores de alimentación y datos, condensadores, disipadores de calor y ventiladores, entre muchos otros. 
+["¿Qué hace la tarjeta madre?"; Página oficial de HP 2021](https://www.hp.com/co-es/shop/tech-takes/que-hace-la-tarjeta-madre)
