@@ -13,10 +13,11 @@ Se trata de una placa de circuito impreso responzable de la comunicación de los
 ## Memoria RAM 
 La memoria RAM o "Random Acces Memory" por sus siglas en inglés, es la encargada de dar un espacio a los programas para acceder de forma inmediata a archivos y datos de corto plazo o temporales. Su funcionamiento depende de su arquitectura e ingeniería, y del programa o de los programas que se estén usando en el momento. Una analogía muy util para describir su funcionamiento es la del escritorio, en su escritorio usted puede hacer varias tareas teniendo el material necesario a la mano.
 ["¿Que hace la memoria de la computadora (RAM)?"; Página oficial de Crucial México.](https://www.crucial.mx/articles/about-memory/support-what-does-computer-memory-do#:~:text=La%20RAM%20le%20permite%20que,de%20cada%20tarea%20se%20encuentra.)
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.profesionalreview.com%2F2018%2F11%2F01%2Fmemoria-ram%2F&psig=AOvVaw2Mc-X0t43oNRe69MfHP7o6&ust=1722027905520000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiaqv6Lw4cDFQAAAAAdAAAAABAE) 
+![alt text](memoria-RAM-que-es-como-funciona.jpg) 
 ## Almacenamiento 
 Hay diferentes tipos de almacenamiento. Las unidades de estado sólido (SSD) y las unidades de disco duro (HDD) son dispositivos de almacenamiento de datos. Las SSD almacenan datos en la memoria flash, que comprende diversos circuitos integrados para almacenar y recuperar datos, mientras que las HDD almacenan datos en discos magnéticos, y tienen varias piezas mecánicas que se mueven juntas para almacenar y recuperar datos. La diferencia más notable, a parte de su arquitectura, es la velocidad de escritura y lectura que manejan, siendo los ssd mucho mas eficientes, y por su complejidad suelen ser más costosos. 
 ["SSD y HDD: diferencias entre dispositivos de Almacenamiento"; Amazon Web Services](https://aws.amazon.com/es/compare/the-difference-between-ssd-hard-drive/)
+![ejemplo de disco duro](img.jpg)
 ## Adicionales
 No seré muy especifico en este apartado, está dado que no quiero hacer la alclaración de que no todos los equipos estan compuestos de igual forma, por ejemplo, un computador de escritorio usa una unidad de potencia asemejada a una caja para brindar la energía necesaria al equipo, mientras que un computador portatil utiliza diferentes sistemas para proporcionar esta energía (como una batería y una fuente externa de alimentación).
 # Software
