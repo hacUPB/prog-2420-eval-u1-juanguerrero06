@@ -13,6 +13,7 @@ Se trata de una placa de circuito impreso responzable de la comunicación de los
 ## Memoria RAM 
 La memoria RAM o "Random Acces Memory" por sus siglas en inglés, es la encargada de dar un espacio a los programas para acceder de forma inmediata a archivos y datos de corto plazo o temporales. Su funcionamiento depende de su arquitectura e ingeniería, y del programa o de los programas que se estén usando en el momento. Una analogía muy util para describir su funcionamiento es la del escritorio, en su escritorio usted puede hacer varias tareas teniendo el material necesario a la mano.
 ["¿Que hace la memoria de la computadora (RAM)?"; Página oficial de Crucial México.](https://www.crucial.mx/articles/about-memory/support-what-does-computer-memory-do#:~:text=La%20RAM%20le%20permite%20que,de%20cada%20tarea%20se%20encuentra.)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.profesionalreview.com%2F2018%2F11%2F01%2Fmemoria-ram%2F&psig=AOvVaw2Mc-X0t43oNRe69MfHP7o6&ust=1722027905520000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiaqv6Lw4cDFQAAAAAdAAAAABAE) 
 ## Almacenamiento 
 Hay diferentes tipos de almacenamiento. Las unidades de estado sólido (SSD) y las unidades de disco duro (HDD) son dispositivos de almacenamiento de datos. Las SSD almacenan datos en la memoria flash, que comprende diversos circuitos integrados para almacenar y recuperar datos, mientras que las HDD almacenan datos en discos magnéticos, y tienen varias piezas mecánicas que se mueven juntas para almacenar y recuperar datos. La diferencia más notable, a parte de su arquitectura, es la velocidad de escritura y lectura que manejan, siendo los ssd mucho mas eficientes, y por su complejidad suelen ser más costosos. 
 ["SSD y HDD: diferencias entre dispositivos de Almacenamiento"; Amazon Web Services](https://aws.amazon.com/es/compare/the-difference-between-ssd-hard-drive/)
@@ -26,7 +27,8 @@ Un sistema operativo es un espacio encargado de gestionar los recursos, datos y 
 Un controlador o "Driver" es un componente de software que se encarga de comunicar un dispositivo fisico con el sistema operativo de un ordenador
 ["¿Qué es un controlador?"; Página oficial de Learn Microsoft, 2023](https://learn.microsoft.com/es-es/windows-hardware/drivers/gettingstarted/what-is-a-driver-)
 ![](https://learn.microsoft.com/es-es/windows-hardware/drivers/gettingstarted/images/whatisadriver01.png) 
-
+## Adicionales
+Así como en el primer apartado, la cantidad de programas y elementos de software que se pueden mencionar son infinitos. Pueden ser programas de desarrollo, motores "visuales", básicamente cualquier conjunto de programas que haya sido desarrollado con una función especifica (o incluso sin una), hace parte de lo que se puede llamar software.
 # Mapa Mental
 ![](<Captura de pantalla 2024-07-24 211006.png>)
 
@@ -43,3 +45,6 @@ Un controlador o "Driver" es un componente de software que se encarga de comunic
 ![](https://hardzone.es/app/uploads-hardzone.es/2019/10/arrancar-PC-04.jpg)
 monitorización de las unidades de almacenamiento, comprobación de las tarjetas de expansión, se inicia la GUI de la BIOS/UEFI de la placa base, carga del sistema operativo.
 [Vease "¿Qué pasa en tu PC cuando pulsas el botón de encender?", foro HZ hard zone, 2024](https://hardzone.es/tutoriales/montaje/arrancar-ordenador/)
+
+Comenta algo que no sabías y que descubriste en esta actividad:
+Realmente para empezar no tenía conocimiento algúno de visual studio code, markdown y demás temas que vimos las primeras 3 clases. Luego profundicé un poco en lo que ya había visto respecto a como funciona un compurador y sus componentes individuales. 
