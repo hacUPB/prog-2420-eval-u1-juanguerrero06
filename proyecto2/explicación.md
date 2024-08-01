@@ -1,5 +1,28 @@
 # Actividad 1. Casos aplicados.
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-|--------------|--------------|--------------|
-| Fila 1 Col 1 | Fila 1 Col 2 | Fila 1 Col 2 |
-| Fila 2 Col 1 | Fila 2 Col 2 | Fila 1 Col 2 |
+
+## Donde:
+Mcs: Módulo de codificación de sensores
+
+Md: Módulo de Decodificación
+
+B2D: Módulo de conversion Bin2Dec
+
+MCE: Módulo de cálculo de errores
+
+D2B: Módulo de conversion Dec2Bin
+
+MC: Módulo de Control
+
+MCC: Módulo de codificación de la CPU
+
+Bit de pariedad par 
+
+Velocidad 00
+Altitud 01
+Temperatura 11
+
+## Caso 1 Velocidad
+
+## Caso 2 Altitud
+
+## Caso 3 Temperatura
