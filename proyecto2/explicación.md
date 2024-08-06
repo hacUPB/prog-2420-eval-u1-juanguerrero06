@@ -42,3 +42,10 @@ Operaciones del MCE:
 ![alt text](image-10.png)
 Y las operaciones del MC:
 ![alt text](image-11.png)
+
+## Conclusiones
+Si bien estaba enterado de este sistema numerico, nunca me había puesto con detenimiento a analizarlo o si quiera a intentar entenderlo. Este sistema permitió la virtualización de muchas tareras de la vida cotidiana.
+
+Es simplemente increíble todo lo que se ha logrado en el ambito de la computación unicamente con estos dos dígitos. Me permitió saber como puedo armar un sistema básico, como plantearlo y como funcionan los modulos que lo componen. 
+
+Ahora conozco de donde salen los terminos que usualmente se usan en las nomenclaturas de los equipos que utilizamos diariamente  en nuestros ámbitos educativos y/o laborales.
